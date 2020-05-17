@@ -1,1 +1,1 @@
-# archisolitude.com
+# archisolitude.github.io
